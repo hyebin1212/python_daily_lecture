@@ -1,2 +1,2 @@
 
-<img src='images/yaktocat.png' width=200>
+<img src='images/yaktocat.png' width=100>
